@@ -35,8 +35,6 @@ What actually happened (include any error messages).
 
 ## Console / network (optional but helpful)
 - Console error text:
-- GA/GTM notes (e.g., page_view fired? custom events fired?):
-- First-party tag gateway path (should look like `/z83i/`): 
 
 ## Screenshots or video
 *(No PII; crop out personal info)*
